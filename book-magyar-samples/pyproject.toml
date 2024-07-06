@@ -1,0 +1,10 @@
+[build-system]
+requires = ["flit_core >=2,<3"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "nyilvantarto"
+author = "Gabor Guta, PhD"
+author-email = "info@axonmatics.com"
+classifiers = ["License :: OSI Approved :: GPL"]
+

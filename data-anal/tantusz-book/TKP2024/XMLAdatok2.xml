@@ -1,0 +1,22 @@
+<Adathalmazom>
+    <Rekord>
+        <Szám>1</Szám>
+        <Sztring>Elsõ</Sztring>
+        <Logikai>Igaz</Logikai>
+    </Rekord>
+    <Rekord>
+        <Szám>2</Szám>
+        <Sztring>Második</Sztring>
+        <Logikai>Hamis</Logikai>
+    </Rekord>
+    <Rekord>
+        <Szám>3</Szám>
+        <Sztring>Harmadik</Sztring>
+        <Logikai>Igaz</Logikai>
+    </Rekord>
+	<Rekord>
+        <Szám>3</Szám>
+        <Sztring>Harmadik</Sztring>
+        <Logikai>Igaz</Logikai>
+    </Rekord>
+</Adathalmazom>

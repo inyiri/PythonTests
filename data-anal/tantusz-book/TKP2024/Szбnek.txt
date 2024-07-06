@@ -1,0 +1,9 @@
+Szín	Érték
+Piros	1
+Narancs	2
+Sárga	3
+Zöld	4
+Kék	5
+Lila	6
+Fekete	7
+Fehér	8
